@@ -7,3 +7,6 @@ plugins:
   - jekyll-remote-theme
 
 show_downloads: false
+
+titles_from_headings:
+  enabled: false
