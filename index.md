@@ -22,4 +22,4 @@ This section will contain climate forecasts, maps and other scientific visualiza
 
 ## Contact
 
-CONICET · Universidad Nacional del Litoral
+ovmuller@gmail.com
