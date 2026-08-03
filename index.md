@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About me
+## Omar V. Müller
 
 I am a climate scientist working on regional climate modelling, hydrology and climate variability over South America.
 
