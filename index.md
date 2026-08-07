@@ -1,6 +1,12 @@
 ---
 layout: default
+title: Home
+permalink: /
 ---
+
+{% include navigation.html %}
+
+<img class="profile-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Portrait of Omar V. Müller" width="260" height="260">
 
 ## About me
 
@@ -22,4 +28,5 @@ This section will contain climate forecasts, maps and other scientific visualiza
 
 ## Contact
 
-ovmuller@gmail.com
+[ovmuller@gmail.com](mailto:ovmuller@gmail.com)
+
