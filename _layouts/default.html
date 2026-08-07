@@ -29,9 +29,10 @@
 
       .header-menu a {
         flex: 1;
-        padding: 0.75rem 1rem;
+        padding: 0.5rem 0.8rem;
         color: #fff;
-        font-weight: 600;
+        font-size: 0.9rem;
+        font-weight: 500;
         text-align: center;
         text-decoration: none;
       }
@@ -67,7 +68,7 @@
           class="header-menu-link{% if page.url == '/weather/' %} active{% endif %}"
           href="{{ '/weather/' | relative_url }}"
           {% if page.url == '/weather/' %}aria-current="page"{% endif %}
-        >7-day weather forecast</a>
+        >Weather Forecast</a>
       </nav>
 
       {% if site.github.is_project_page %}
