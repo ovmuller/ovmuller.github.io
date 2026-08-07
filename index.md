@@ -62,7 +62,7 @@ I am a climate scientist with a background in computer engineering. I have alway
 - Land-surface processes and land–atmosphere interactions
 - Applied climatology in agriculture, energy, and water resources
 
-## Publications & profiles
+## Publications and profiles
 
 
 <p>
