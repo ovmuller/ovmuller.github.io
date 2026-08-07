@@ -38,7 +38,3 @@ permalink: /weather/
 }
 </style>
 
-<nav class="site-menu" aria-label="Main navigation">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a class="active" href="{{ '/weather/' | relative_url }}">7-day weather forecast</a>
-</nav>
