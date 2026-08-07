@@ -4,19 +4,27 @@ title: 7-day weather forecast
 permalink: /weather/
 ---
 
-{% include navigation.html %}
+<style>
+  .site-menu {
+    display: flex;
+    margin-bottom: 2rem;
+    background: #155799;
+  }
 
-## 7-day weather forecast
+  .site-menu a {
+    padding: 0.8rem 1rem;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+  }
 
-Use your current location to retrieve a seven-day forecast. Your coordinates are sent only to the weather service and are not stored by this website.
+  .site-menu a:hover,
+  .site-menu a.active {
+    background: #0f3f70;
+  }
+</style>
 
-<button id="load-forecast" class="forecast-button" type="button">Use my location</button>
-
-<p id="forecast-status" class="forecast-status" role="status" aria-live="polite"></p>
-
-<div id="forecast" class="forecast-grid" aria-label="Seven-day forecast"></div>
-
-<p class="forecast-credit">Forecast data: <a href="https://open-meteo.com/" rel="noopener">Open-Meteo</a>.</p>
-
-<script src="{{ '/assets/js/weather.js' | relative_url }}" defer></script>
-
+<nav class="site-menu" aria-label="Main navigation">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  <a class="active" href="{{ '/weather/' | relative_url }}">7-day weather forecast</a>
+</nav>
