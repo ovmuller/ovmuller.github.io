@@ -53,19 +53,39 @@ permalink: /
 
 ## About me
 
-I am a climate scientist working on regional climate modelling, hydrology and climate variability over South America.
+I am a climate scientist with a background in computer engineering. I have always been interested in computing not as an end in itself, but as a tool to understand and solve physical problems. This interest led me to pursue a PhD in Water Resources and eventually to my current research at the intersection of climate, hydrology, and numerical modelling.
 
-## Research
+Over the years, I have worked on a range of topics, with hydroclimate modelling as a common thread throughout my research. I am currently based at CEVARCAM, Universidad Nacional del Litoral (UNL), and I am a researcher at CONICET.
 
-My research focuses on:
+## Research interests
 
-- Regional climate modelling
-- Hydrological modelling
-- River discharge
-- Climate variability and prediction
-- Scientific visualization
+- Regional and global climate modelling
+- Regional and global hydrological modelling
+- Land-surface processes and land–atmosphere interactions
+- Applied climatology in agriculture, energy, and water resources
 
-## Forecasts and visualizations
+## Publications & profiles
+
+## Publications & profiles
+
+<p>
+  <a href="https://scholar.google.com/citations?user=Yd9qEi0AAAAJ" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlescholar" width="20" height="20" alt="Google Scholar">
+    Google Scholar
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.researchgate.net/profile/Omar-Mueller" target="_blank">
+    <img src="https://cdn.simpleicons.org/researchgate" width="20" height="20" alt="ResearchGate">
+    ResearchGate
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://orcid.org/0000-0001-9943-8368" target="_blank">
+    <img src="https://cdn.simpleicons.org/orcid" width="20" height="20" alt="ORCID">
+    ORCID
+  </a>
+</p>
 
 ## Contact
 
