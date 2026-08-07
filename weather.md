@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 7-day weather forecast
 permalink: /weather/
 ---
 
