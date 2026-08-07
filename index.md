@@ -49,11 +49,6 @@ permalink: /
   }
 </style>
 
-<nav class="site-menu" aria-label="Main navigation">
-  <a class="active" href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/weather/' | relative_url }}">7-day weather forecast</a>
-</nav>
-
 <img class="profile-photo" src="{{ '/profile.jpg' | relative_url }}" alt="Portrait of Omar V. Müller">
 
 ## About me
