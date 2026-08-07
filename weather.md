@@ -10,17 +10,32 @@ permalink: /weather/
     background: #155799;
   }
 
-  .site-menu a {
-    padding: 0.8rem 1rem;
-    color: white;
-    font-weight: 600;
-    text-decoration: none;
-  }
+.site-menu {
+  display: flex;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  background: #155799;
+  border-radius: 4px;
+}
 
-  .site-menu a:hover,
-  .site-menu a.active {
-    background: #0f3f70;
-  }
+.site-menu a {
+  flex: 1;
+  padding: 0.8rem 1rem;
+  color: white;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+}
+
+.site-menu a + a {
+  border-left: 1px solid rgba(255, 255, 255, 0.45);
+}
+
+.site-menu a:hover,
+.site-menu a.active {
+  color: white;
+  background: #0f3f70;
+}
 </style>
 
 <nav class="site-menu" aria-label="Main navigation">
