@@ -53,7 +53,7 @@ permalink: /
 
 ## About me
 
-I am a climate scientist with a background in computer engineering. I have always been interested in computing not as an end in itself, but as a tool to understand and solve physical problems. This interest led me to pursue a PhD in Water Resources and eventually to my current research at the intersection of climate, hydrology, and numerical modelling. I am currently based at CEVARCAM, Universidad Nacional del Litoral (UNL), and I am a researcher at CONICET.
+I am a climate scientist with a background in computer engineering. My interest in using computing to understand physical systems led me to pursue a PhD in Water Resources and to work at the intersection of climate, hydrology, and numerical modelling. I am currently based at CEVARCAM as a Research Professor at Universidad Nacional del Litoral (UNL) and a CONICET researcher.
 
 ## Research interests
 
